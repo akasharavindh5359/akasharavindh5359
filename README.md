@@ -25,11 +25,11 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/akasharvind/" target="_blank">
+  <a href="www.linkedin.com/in/akash-aravind-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://github.com/CodeWithAkDev" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+  <a href="https://discord.com/users/akasharavindcodewithakdev" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
 
