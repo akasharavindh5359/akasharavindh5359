@@ -1,6 +1,6 @@
 <!-- Banner Animation -->
 <p align="center">
-  <img src="https://raw.githubusercontent.com/akshaykhale1992/akshaykhale1992/main/coding-freak.gif" width="60%" alt="animated coding guy" />
+  <img src="https://drive.google.com/file/d/1p77sZ2ZAcOoZ1AZ6VQ6CjZ23gRy9chpe/view?usp=sharing" width="60%" alt="animated coding guy" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akash Aravind (CodeWithAkDev)</h1>
@@ -17,7 +17,7 @@
 - 👯 I’m looking to collaborate on real-world Java + Angular projects  
 - 🤝 I’m looking for help with real-time chat app optimization  
 - 🌱 Currently learning **Spring MVC** and **Clean Architecture**  
-- 💬 Ask me about **Java**, **Spring Boot**, **JWT**, **React**, **Vue**, **GSAP**  
+- 💬 Ask me about **Java**, **Spring Boot**, **JWT**, **Angular**, **Mysql**, **Javascript**  
 - 📫 Reach me at: **akasharvindh.cs@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/file/d/1rp5f_gX4EhGGs4SQil716ybt5EHx1d5X/view?usp=sharing)
 
