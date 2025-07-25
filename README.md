@@ -25,7 +25,7 @@
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="www.linkedin.com/in/akash-aravind-dev" target="_blank">
+  <a href="https://linkedin.com/in/akash-aravind-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
   <a href="https://discord.com/users/akasharavindcodewithakdev" target="_blank">
