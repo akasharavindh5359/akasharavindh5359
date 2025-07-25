@@ -1,70 +1,46 @@
-# Hi 👋, I'm  
-## Akash Aravind (CodeWithAkDev)
+<!-- Banner Animation -->
+<p align="center">
+  <img src="https://raw.githubusercontent.com/akshaykhale1992/akshaykhale1992/main/coding-freak.gif" width="60%" alt="animated coding guy" />
+</p>
 
-### 💼 Java Developer | 1+ Years Experience | Spring Boot | REST API | Angular | MySQL
+<h1 align="center">Hi 👋, I'm Akash Aravind (CodeWithAkDev)</h1>
 
----
-
-### 🔭 I’m currently working on
-🛒 **Ecom-Chat** — E-commerce & Chat Application  
-🌐 [Live Project](https://ecom-1111.netlify.app/)
+<h3 align="center">Java Developer | 1+ Years Experience | Spring Boot | REST API | Angular | MySQL</h3>
 
 ---
 
-### 👯 I’m looking to collaborate on
-🤝 **Open to collaborate on exciting full-stack projects**  
-🔗 *[Add your project name and GitHub or live link here]*
+### 👨‍💻 About Me
+
+- 🔭 I’m currently working on **Ecom-Chat (E-commerce & Chat Application)**  
+  🌐 [Live Demo](https://ecom-1111.netlify.app/)
+
+- 👯 I’m looking to collaborate on real-world Java + Angular projects  
+- 🤝 I’m looking for help with real-time chat app optimization  
+- 🌱 Currently learning **Spring MVC** and **Clean Architecture**  
+- 💬 Ask me about **Java**, **Spring Boot**, **JWT**, **React**, **Vue**, **GSAP**  
+- 📫 Reach me at: **akasharvindh.cs@gmail.com**  
+- 📄 [View My Resume](https://drive.google.com/file/d/1rp5f_gX4EhGGs4SQil716ybt5EHx1d5X/view?usp=sharing)
 
 ---
 
-### 🤝 I’m looking for help with
-🧠 **Scaling real-time chat applications**  
-🔗 *[Add project name and link here]*
+### 💻 Tech Stack
 
----
-
-### 🌱 I’m currently learning
-- Spring MVC  
-- Advanced Microservices Patterns  
-- Clean Architecture Principles  
-
----
-
-### 💬 Ask me about
-- Java
-- Spring Boot
-- REST API Integration
-- JWT Security
-- Frontend Frameworks like **React**, **Vue**, and **GSAP**
-
----
-
-### 📫 How to reach me
-📧 akasharvindh.cs@gmail.com  
-🔗 [LinkedIn Profile](#) *(Optional - Add yours)*
-
----
-
-### 👨‍💻 All of my projects are available at
-🌐 [https://ecom-1111.netlify.app/](https://ecom-1111.netlify.app/)
-
----
-
-### 📝 I regularly write articles on
-✍️ *[Add your blog link here]*
-
----
-
-### 📄 Know about my experiences
-📎 [View My Resume](https://drive.google.com/file/d/1rp5f_gX4EhGGs4SQil716ybt5EHx1d5X/view?usp=sharing)
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,mysql,mongodb,postman,git,github" />
+</p>
 
 ---
 
 ### ⚡ Fun Fact
-I enjoy refactoring legacy Java code into scalable microservices using Spring Boot,  
-designing clean REST APIs, and setting up JWT-based security like it’s a game.  
-Console logs and Postman are basically my second home. 🚀
+
+> I enjoy refactoring legacy Java code into scalable microservices using Spring Boot,  
+> designing clean REST APIs, and setting up JWT-based security like it’s a game.  
+> Console logs and Postman are basically my second home. 🚀
+
+> “I think I’m funny… but my code thinks I’m serious.” 😄
 
 ---
 
-> “I think I’m funny… but my code thinks I’m serious.” 😄
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0e7490&height=120&section=footer" />
+</p>
