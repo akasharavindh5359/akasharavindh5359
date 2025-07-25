@@ -16,7 +16,8 @@
 - 👯 Looking to collaborate on real-world Java + Angular projects  
 - 🤝 Looking for help with scaling microservices and real-time systems  
 - 🌱 Currently learning **Spring MVC** and **Cloud-Native Microservice Architecture**  
-- 💬 Ask me about **Java**, **Spring Boot**, **Microservices**, **Angular**, **MySQL**, **JavaScript**, **JWT Security**  
+- 💬 Ask me about **Java**, **Spring Boot**, **Microservices**, **Angular**, **MySQL**, **JavaScript**, **JWT Security**
+- 📫 Reach me at: **akasharvindh.cs@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/file/d/1rp5f_gX4EhGGs4SQil716ybt5EHx1d5X/view?usp=sharing)
 
 ---
@@ -27,11 +28,11 @@
   <a href="https://linkedin.com/in/akash-aravind-dev" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
   </a>
-  <a href="https://discord.com/users/akasharavindcodewithakdev" target="_blank">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
-  </a>
   <a href="mailto:akasharvindh.cs@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://discord.com/users/akasharavindcodewithakdev" target="_blank">
+    <img src="https://img.shields.io/badge/-Discord-5865F2?style=flat-square&logo=discord&logoColor=white" />
   </a>
 </p>
 
