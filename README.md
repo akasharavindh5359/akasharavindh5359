@@ -1,32 +1,44 @@
-<!-- Banner Animation -->
+<!-- Top Animated Coder Header -->
 <p align="center">
-  <img src="https://tenor.com/en-IN/view/developer-gif-2461104302247665708" width="60%" alt="animated coding guy" />
+  <img src="https://github.com/akasharavindh5359/ecom-chat-platform-FrontEnd/blob/main/src/assets/Images/software-developer-12908711-10482296-ezgif.com-video-to-gif-converter.gif" width="300" alt="Akash Coding GIF" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akash Aravind (CodeWithAkDev)</h1>
-
-<h3 align="center">Java Developer | 1+ Years Experience | Spring Boot | REST API | Angular | MySQL</h3>
+<h3 align="center">Java Developer | 1+ Years Experience | Spring Boot | Microservices | REST API | Angular | MySQL</h3>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently working on **Ecom-Chat (E-commerce & Chat Application)**  
+- 🔭 Currently working on **Ecom-Chat (E-commerce & Chat Application)**  
   🌐 [Live Demo](https://ecom-1111.netlify.app/)
 
-- 👯 I’m looking to collaborate on real-world Java + Angular projects  
-- 🤝 I’m looking for help with real-time chat app optimization  
-- 🌱 Currently learning **Spring MVC** and **Clean Architecture**  
-- 💬 Ask me about **Java**, **Spring Boot**, **JWT**, **Angular**, **Mysql**, **Javascript**  
+- 👯 Looking to collaborate on real-world Java + Angular projects  
+- 🤝 Looking for help with scaling microservices and real-time systems  
+- 🌱 Currently learning **Spring MVC** and **Cloud-Native Microservice Architecture**  
+- 💬 Ask me about **Java**, **Spring Boot**, **Microservices**, **Angular**, **MySQL**, **JavaScript**, **JWT Security**  
 - 📫 Reach me at: **akasharvindh.cs@gmail.com**  
 - 📄 [View My Resume](https://drive.google.com/file/d/1rp5f_gX4EhGGs4SQil716ybt5EHx1d5X/view?usp=sharing)
+
+---
+
+### 🌐 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/akasharvind/" target="_blank">
+    <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="https://github.com/CodeWithAkDev" target="_blank">
+    <img src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github" />
+  </a>
+</p>
 
 ---
 
 ### 💻 Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,html,css,mysql,mongodb,postman,git,github" />
+  <img src="https://skillicons.dev/icons?i=java,spring,angular,js,mysql,mongodb,postman,git,github" />
 </p>
 
 ---
@@ -34,7 +46,7 @@
 ### ⚡ Fun Fact
 
 > I enjoy refactoring legacy Java code into scalable microservices using Spring Boot,  
-> designing clean REST APIs, and setting up JWT-based security like it’s a game.  
+> designing clean REST APIs, and treating JWT-based security like a game.  
 > Console logs and Postman are basically my second home. 🚀
 
 > “I think I’m funny… but my code thinks I’m serious.” 😄
