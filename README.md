@@ -1,6 +1,6 @@
 <!-- Banner Animation -->
 <p align="center">
-  <img src="https://drive.google.com/file/d/1p77sZ2ZAcOoZ1AZ6VQ6CjZ23gRy9chpe/view?usp=sharing" width="60%" alt="animated coding guy" />
+  <img src="https://tenor.com/en-IN/view/developer-gif-2461104302247665708" width="60%" alt="animated coding guy" />
 </p>
 
 <h1 align="center">Hi 👋, I'm Akash Aravind (CodeWithAkDev)</h1>
