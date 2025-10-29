@@ -18,7 +18,7 @@
 - 🌱 Currently learning **Spring MVC** and **Cloud-Native Microservice Architecture**  
 - 💬 Ask me about **Java**, **Spring Boot**, **Microservices**, **Angular**, **MySQL**, **JavaScript**, **JWT Security**
 - 📫 Reach me at: **akasharvindh.cs@gmail.com**  
-- 📄 [View My Resume]([https://drive.google.com/file/d/1rp5f_gX4EhGGs4SQil716ybt5EHx1d5X/view?usp=sharing](https://drive.google.com/drive/u/0/folders/19SxaGYd-gKI76nJ2dhSzAcHrIJ0ZqBVH)
+- 📄 [View My Resume](https://drive.google.com/file/d/1og3xJqUwnB6P9X-6bgR7ca52wGJQRymF/view?usp=sharing)
 
 ---
 
